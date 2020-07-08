@@ -10,10 +10,11 @@ constructor(props){
   }
 }
 render(){
-  return(
-  <div><p>Codify React Test Interview.</p>
-  <CallWidget />
-  </div>)
+ return(
+<CallWidget />
+ )
+  
+ 
 }
 
 }
